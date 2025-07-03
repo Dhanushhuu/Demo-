@@ -1,4 +1,4 @@
 # Demo
 This is my first Git Repositary.
 <br>
-Author- Dhanush
+Author- Dhanush Kumar
